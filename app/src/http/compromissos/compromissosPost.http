@@ -1,0 +1,11 @@
+POST https://8080-maferzangue-atividade03-pxr4j4utbxi.ws-us110.gitpod.io/compromissos
+Content-Type: application/json
+
+{
+    "descricao": "Minha festa",
+    "dataInicio": "27 de Abriil",
+    "dataFim": "28 de Abril",
+    "horaInicio": "00hrs",
+    "horaFim": "23hrs e 59 min"
+
+}

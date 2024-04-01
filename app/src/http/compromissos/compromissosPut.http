@@ -1,0 +1,11 @@
+PUT https://8080-maferzangue-atividade03-pxr4j4utbxi.ws-us110.gitpod.io/compromissos/3
+Content-Type: application/json
+
+{
+    "descricao": "FESTA",
+    "dataInicio": "27 de Abriil",
+    "dataFim": "28 de Abril",
+    "horaInicio": "15hrs",
+    "horaFim": "15hrs"
+
+}

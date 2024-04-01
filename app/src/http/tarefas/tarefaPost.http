@@ -1,0 +1,7 @@
+POST https://8080-maferzangue-atividade03-pxr4j4utbxi.ws-us110.gitpod.io/tarefas
+Content-Type: application/json
+
+{
+    "descricao": "Me arrumar",
+    "concluido": "False"
+}
