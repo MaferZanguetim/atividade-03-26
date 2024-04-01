@@ -2,3 +2,8 @@ image: gitpod/workspace-java-17
 
 tasks:
   - init: "docker-compose up -d"
+
+
+ports:
+  - port: 8080
+    visibility: public
